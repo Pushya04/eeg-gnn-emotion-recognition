@@ -14,7 +14,7 @@ This project focuses on enhancing EEG-based emotion classification (valence/arou
 ├── graph_embeddings.py       # Advanced embedding model with GAT + GCN + Residuals
 ├── accurate.py               # Aggregates accuracy across subjects
 ├── summarize.txt             # Project summary and documentation
-├── report.docx               # [Include if exists: detailed project report]
+├── report.pdf               # [Include if exists: detailed project report]
 ```
 
 ---
@@ -111,7 +111,7 @@ python accurate.py
 ---
 
 ## 📎 Report
-A detailed report (`report.docx`) is included outlining:
+A detailed report (`report.pdf`) is included outlining:
 - Literature background
 - Methodology
 - Results
