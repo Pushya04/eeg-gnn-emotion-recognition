@@ -197,6 +197,6 @@ If you use this work, please cite:
   author = {Pushya Mithra},
   title = {EEG Emotion Recognition using Spectral Graph Neural Networks},
   year = 2025,
-  howpublished = {\url{https://github.com/<your-username>/eeg-gnn-emotion-recognition}}
+  howpublished = {\url{https://github.com/Pushya04/eeg-gnn-emotion-recognition}}
 }
 ```
