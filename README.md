@@ -13,7 +13,6 @@ This project focuses on enhancing EEG-based emotion classification (valence/arou
 ├── showcase_pool.py          # Pooling strategy comparison (TopK, SAG, Mean)
 ├── graph_embeddings.py       # Advanced embedding model with GAT + GCN + Residuals
 ├── accurate.py               # Aggregates accuracy across subjects
-├── summarize.txt             # Project summary and documentation
 ├── report.pdf               # [Include if exists: detailed project report]
 ```
 
