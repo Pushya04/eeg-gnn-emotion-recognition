@@ -168,7 +168,7 @@ git commit -m "Initial commit with EEG-GNN pipeline"
 
 4. Connect to GitHub:
 ```bash
-git remote add origin https://github.com/<your-username>/eeg-gnn-emotion-recognition.git
+git remote add origin https://github.com/Pushya04/eeg-gnn-emotion-recognition.git
 ```
 
 5. Push:
